@@ -34,7 +34,7 @@ Malware, advert and tracking blocklist which consolidates and improves upon many
 
 [Adblock Plus format](https://mkb2091.github.io/blockconvert/output/adblock.txt)
 
-[Hosts file format](https://mkb2091.github.io/blockconvert/output/hosts.txt)
+[Hosts file format](https://mkb2091.github.io/blockconvert/output/hosts.txt) (WARNING: do not attempt to use this on Windows 10. Refer to [this issue](https://github.com/mkb2091/blockconvert/issues/87))
 
 [Domain list](https://mkb2091.github.io/blockconvert/output/domains.txt)
 
